@@ -1,0 +1,5 @@
+﻿  RSA.cpp
+c:\users\paraskun ivan\source\repos\rsa\rsa\rsa.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\paraskun ivan\source\repos\rsa\rsa\rsa.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\paraskun ivan\source\repos\rsa\rsa\rsa.cpp(140): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RSA.vcxproj -> c:\Users\paraskun ivan\source\repos\RSA\Debug\RSA.exe
