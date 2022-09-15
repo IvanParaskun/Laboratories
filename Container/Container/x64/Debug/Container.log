@@ -1,3 +1,0 @@
-﻿  Container.cpp
-c:\users\paraskun ivan\source\repos\container\container\commands.h(116): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
-  Container.vcxproj -> C:\Users\Paraskun Ivan\source\repos\Container\x64\Debug\Container.exe
